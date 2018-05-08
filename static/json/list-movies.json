@@ -1,0 +1,443 @@
+{
+    "list": {
+        "title": "最新电影",
+        "movies": [
+            {
+                "url": "static/img/movie1.jpg",
+                "name": "火锅英雄",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie2.jpg",
+                "name": "我的野蛮女友",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie3.jpg",
+                "name": "夜孔雀",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie4.jpg",
+                "name": "刑警兄弟",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie5.jpg",
+                "name": "人在囧途之太囧",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie6.jpg",
+                "name": "我的少女时代",
+                "num": 6.4
+            },
+            {
+                "num": "7.5",
+                "name": "小丑回魂",
+                "url": "static/img/movie7.jpg"
+            },
+            {
+                "num": "7.3",
+                "name": "忌日快乐",
+                "url": "static/img/movie8.jpg"
+            },
+            {
+                "num": "7.8",
+                "name": "南汉山城",
+                "url": "static/img/movie9.jpg"
+            },
+            {
+                "num": "7.6",
+                "name": "夜晚的灵魂",
+                "url": "static/img/movie10.jpg"
+            },
+            {
+                "num": "8.8",
+                "name": "春宵苦短，少女！",
+                "url": "static/img/movie11.jpg"
+            },
+            {
+                "num": "8.8",
+                "name": "我能说",
+                "url": "static/img/movie12.jpg"
+            },
+            {
+                "num": "7.3",
+                "name": "战狼2",
+                "url": "static/img/movie13.jpg"
+            },
+            {
+                "num": "7.1",
+                "name": "极寒之城",
+                "url": "static/img/movie14.jpg"
+            },
+            {
+                "num": "7.1",
+                "name": "星际特工：千星之城",
+                "url": "static/img/movie15.jpg"
+            },
+            {
+                "num": "5.1",
+                "name": "天生不对",
+                "url": "static/img/movie16.jpg"
+            },
+            {
+                "num": "5.5",
+                "name": "雪人",
+                "url": "static/img/movie17.jpg"
+            },
+            {
+                "num": "5.4",
+                "name": "24小时：末路重生",
+                "url": "static/img/movie18.jpg"
+            },
+            {
+                "num": "7.8",
+                "name": "南汉山城",
+                "url": "static/img/movie19.jpg"
+            },
+            {
+                "num": "5.1",
+                "name": "狂兽",
+                "url": "static/img/movie20.jpg"
+            },
+            {
+                "num": "7.6",
+                "name": "夜晚的灵魂",
+                "url": "static/img/movie21.jpg"
+            },
+            {
+                "num": "8.1",
+                "name": "啊，荒野 前篇",
+                "url": "static/img/movie22.jpg"
+            },
+            {
+                "num": "6.2",
+                "name": "烽火芳菲",
+                "url": "static/img/movie23.jpg"
+            },
+            {
+                "num": "7.5",
+                "name": "布里斯比熊",
+                "url": "static/img/movie24.jpg"
+            },
+            {
+                "num": "9.6",
+                "name": "肖申克的救赎",
+                "url": "static/img/movie25.jpg"
+            },
+            {
+                "num": "8.1",
+                "name": "啊，荒野 前篇",
+                "url": "static/img/movie26.jpg"
+            },
+            {
+                "num": "8.5",
+                "name": "你的名字。",
+                "url": "static/img/movie27.jpg"
+            },
+            {
+                "num": "8.7",
+                "name": "看不见的客人",
+                "url": "static/img/movie28.jpg"
+            },
+            {
+                "num": "9.4",
+                "name": "这个杀手不太冷",
+                "url": "static/img/movie29.jpg"
+            },
+            {
+                "num": "9.5",
+                "name": "霸王别姬",
+                "url": "static/img/movie30.jpg"
+            },
+            {
+                "num": "9.2",
+                "name": "疯狂动物城",
+                "url": "static/img/movie31.jpg"
+            },
+            {
+                "num": "9.4",
+                "name": "阿甘正传",
+                "url": "static/img/movie32.jpg"
+            },
+            {
+                "num": "9.2",
+                "name": "千与千寻",
+                "url": "static/img/movie33.jpg"
+            },
+            {
+                "num": "8.6",
+                "name": "莫娣",
+                "url": "static/img/movie34.jpg"
+            },
+            {
+                "num": "8.1",
+                "name": "啊，荒野 前篇",
+                "url": "static/img/movie35.jpg"
+            },
+            {
+                "num": "8.2",
+                "name": "布兰卡和弹吉他的人",
+                "url": "static/img/movie36.jpg"
+            },
+            {
+                "num": "8.1",
+                "name": "我的上高",
+                "url": "static/img/movie37.jpg"
+            },
+            {
+                "num": "8.3",
+                "name": "伤物语3：冷血篇",
+                "url": "static/img/movie38.jpg"
+            },
+            {
+                "num": "8.4",
+                "name": "约翰之子",
+                "url": "static/img/movie39.jpg"
+            },
+            {
+                "num": "8.3",
+                "name": "无名英雄",
+                "url": "static/img/movie40.jpg"
+            },
+            {
+                "num": "8.2",
+                "name": "奥拉克之手",
+                "url": "static/img/movie41.jpg"
+            },
+            {
+                "num": "8.4",
+                "name": "生命如此美好",
+                "url": "static/img/movie42.jpg"
+            },
+            {
+                "num": "9.5",
+                "name": "霸王别姬",
+                "url": "static/img/movie43.jpg"
+            },
+            {
+                "num": "6.2",
+                "name": "烽火芳菲",
+                "url": "static/img/movie44.jpg"
+            },
+            {
+                "num": "7.8",
+                "name": "大护法",
+                "url": "static/img/movie45.jpg"
+            },
+            {
+                "num": "8.3",
+                "name": "驴得水",
+                "url": "static/img/movie46.jpg"
+            },
+            {
+                "num": "9.2",
+                "name": "大话西游之大圣娶亲",
+                "url": "static/img/movie47.jpg"
+            },
+            {
+                "num": "8.0",
+                "name": "湄公河行动",
+                "url": "static/img/movie48.jpg"
+            }
+        ]
+    },
+    "list2": {
+        "title": "最新电影预告",
+        "movies": [
+            {
+                "url": "static/img/movie1.jpg",
+                "name": "火锅英雄",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie2.jpg",
+                "name": "我的野蛮女友",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie3.jpg",
+                "name": "夜孔雀",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie4.jpg",
+                "name": "刑警兄弟",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie5.jpg",
+                "name": "人在囧途之太囧",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie6.jpg",
+                "name": "我的少女时代",
+                "num": 6.4
+            }
+        ]
+    },
+    "list3": {
+        "title": "2016年电影前瞻",
+        "movies": [
+            {
+                "url": "static/img/movie1.jpg",
+                "name": "火锅英雄",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie2.jpg",
+                "name": "我的野蛮女友",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie3.jpg",
+                "name": "夜孔雀",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie4.jpg",
+                "name": "刑警兄弟",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie5.jpg",
+                "name": "人在囧途之太囧",
+                "num": 6.4
+            },
+            {
+                "url": "static/img/movie6.jpg",
+                "name": "我的少女时代",
+                "num": 6.4
+            }
+        ]
+    },
+    "star1": {
+        "title": "明星",
+        "class": "star1",
+        "star": [
+            {
+                "url": "static/img/s1.jpg",
+                "name": "赵丽颖"
+            },
+            {
+                "url": "static/img/s2.jpg",
+                "name": "黄渤"
+            },
+            {
+                "url": "static/img/s3.jpg",
+                "name": "范冰冰"
+            },
+            {
+                "url": "static/img/s4.jpg",
+                "name": "刘诗诗"
+            },
+            {
+                "url": "static/img/s5.jpg",
+                "name": "刘亦菲"
+            },
+            {
+                "url": "static/img/s6.jpg",
+                "name": "杨洋"
+            },
+            {
+                "url": "static/img/s7.jpg",
+                "name": "李易峰"
+            },
+            {
+                "url": "static/img/s8.jpg",
+                "name": "唐嫣"
+            },
+            {
+                "url": "static/img/s9.jpg",
+                "name": "李小璐"
+            },
+            {
+                "url": "static/img/s10.jpg",
+                "name": "孙俪"
+            },
+            {
+                "url": "static/img/s11.jpg",
+                "name": "佟丽娅"
+            },
+            {
+                "url": "static/img/s12.jpg",
+                "name": "马天宇"
+            },
+            {
+                "url": "static/img/s13.jpg",
+                "name": "刘诗诗"
+            },
+            {
+                "url": "static/img/s14.jpg",
+                "name": "周笔畅"
+            },
+            {
+                "url": "static/img/s15.jpg",
+                "name": "鹿晗"
+            },
+            {
+                "url": "static/img/s16.jpg",
+                "name": "张艺兴"
+            },
+            {
+                "url": "static/img/s17.jpg",
+                "name": "黄子韬"
+            },
+            {
+                "url": "static/img/s18.jpg",
+                "name": "乔振宇"
+            },
+            {
+                "url": "static/img/s19.jpg",
+                "name": "张颂文"
+            },
+            {
+                "url": "static/img/s20.jpg",
+                "name": "任娇"
+            },
+            {
+                "url": "static/img/s21.jpg",
+                "name": "雷杰"
+            },
+            {
+                "url": "static/img/s22.jpg",
+                "name": "张铭鑫"
+            },
+            {
+                "url": "static/img/s23.jpg",
+                "name": "王晓晨"
+            },
+            {
+                "url": "static/img/s24.jpg",
+                "name": "菅纫姿"
+            },
+            {
+                "url": "static/img/s25.jpg",
+                "name": "杨幂"
+            },
+            {
+                "url": "static/img/s26.jpg",
+                "name": "章龄之"
+            },
+            {
+                "url": "static/img/s27.jpg",
+                "name": "胡歌"
+            },
+            {
+                "url": "static/img/s28.jpg",
+                "name": "杨旭文"
+            },
+            {
+                "url": "static/img/s29.jpg",
+                "name": "张嘉译"
+            },
+            {
+                "url": "static/img/s30.jpg",
+                "name": "周润发"
+            }
+        ]
+    }
+}
